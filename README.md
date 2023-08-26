@@ -1,5 +1,5 @@
 # 👽 Title Here  `02D9F7FF`
-1. El primer titulo, solo copia el codigo
+1. Banner
    ```bash
     ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=👋👋👋;👋👋+👋👋;👋+👋;Welcome!)
    ```
@@ -8,7 +8,6 @@
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 # 📈 Statistics 
-1. El primer titulo, solo copia el codigo
 
    ```bash
    <h1 align="center">Github Metrics </h1><p align="center">
@@ -20,7 +19,6 @@
   <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LinhDangDev&theme=github_dark" />
 </p>
 
-2. El primer titulo, solo copia el codigo
    ```bash
    [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LinhDangDev&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
    ```
